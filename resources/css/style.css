@@ -1,0 +1,22 @@
+body{
+  background-color:black
+  
+}
+
+
+
+
+header h1 {
+  display:flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  color:white;
+}
+
+header p{
+  color:green;
+  text-align: center;
+  font-size: 16;
+
+}
