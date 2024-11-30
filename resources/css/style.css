@@ -1,4 +1,4 @@
-body{
+body {
   background-color:black
   
 }
@@ -18,5 +18,16 @@ header p{
   color:green;
   text-align: center;
   font-size: 16;
+
+}
+
+main  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{ max-width: 40%;
+  border-radius: 20%;
 
 }
